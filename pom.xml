@@ -11,9 +11,9 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <jetty.version>9.4.14.v20181114</jetty.version>
-        <lombok.version>1.18.4</lombok.version>
-        <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
+        <jetty.version>11.0.1</jetty.version>
+        <lombok.version>1.18.18</lombok.version>
+        <spring.boot.version>2.4.3</spring.boot.version>
     </properties>
 
     <dependencies>
